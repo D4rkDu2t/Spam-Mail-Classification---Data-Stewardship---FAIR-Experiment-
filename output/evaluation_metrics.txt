@@ -1,0 +1,15 @@
+Spam - Ham Classifier Metrics
+====================================
+Database ID: 7105b5ed-3020-42ad-8f67-f670c2f6fa18
+Train Subset ID: 730fea6e-187a-11f0-b919-f68d2490d0da
+Test Subset ID: 3c48ba6e-187b-11f0-a3a8-2ebef9ba1aed
+Validation Subset ID: 08c5056c-187b-11f0-b919-f68d2490d0da
+====================================
+Number of training samples: 3619
+Number of test samples: 1039
+Number of validation samples: 513
+====================================
+Accuracy: 0.9865
+Precision: 0.9855
+Recall: 0.9644
+F1 Score: 0.9748
