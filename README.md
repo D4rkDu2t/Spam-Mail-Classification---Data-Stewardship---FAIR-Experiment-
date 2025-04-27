@@ -1,6 +1,6 @@
 # Spam Ham Classifier
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1234567.svg)](https://doi.org/10.5281/zenodo.1234567)TO FIX
+<!-- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1234567.svg)](https://doi.org/10.5281/zenodo.1234567)TO FIX -->
 
 ## Index
 - [Project Description](#project-description)
