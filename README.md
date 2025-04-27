@@ -1,6 +1,8 @@
 # Spam Ham Classifier
 
-<!-- [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1234567.svg)](https://doi.org/10.5281/zenodo.1234567)TO FIX -->
+DMP (Data Management Plan) for the Spam Ham Classifier project:
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15292366.svg)](https://doi.org/10.5281/zenodo.15292366)
 
 ## Index
 - [Project Description](#project-description)
@@ -100,6 +102,11 @@ Preprocessed data derived from the "Spam Mail" dataset, containing email message
 
 Train set from the "Spam Mails" dataset, consisting of 3619 random entries (70% of the total data). Entries in this set have experiment_id values ranging from 0 to 3618.
 
+**Link to the subset:**
+
+[![DOI](https://zenodo.org/badge/DOI/10.82556/9caz-8j64.svg)](https://test.dbrepo.tuwien.ac.at/database/7105b5ed-3020-42ad-8f67-f670c2f6fa18/subset/730fea6e-187a-11f0-b919-f68d2490d0da/info)
+
+
 ## Training Procedure
 - Preprocessing: Stopword removal (english stopwords and punctuation symbols), stemming, and lemmatization.
 - Embeddings: Tokenized words using `TfidfVectorizer` from Scikit-learn.
@@ -118,11 +125,19 @@ Train set from the "Spam Mails" dataset, consisting of 3619 random entries (70% 
 
 Validation set from the "Spam Mails" dataset, consisting of 512 random entries (10% of the total data). Entries in this set have experiment_id values ranging from 3619 to 4131. This set is used to tune the model's hyperparameters and evaluate its performance during training.
 
+**Link to the subset:**
+
+[![DOI](https://zenodo.org/badge/DOI/10.82556/b67z-7d36.svg)](https://test.dbrepo.tuwien.ac.at/database/7105b5ed-3020-42ad-8f67-f670c2f6fa18/subset/08c5056c-187b-11f0-b919-f68d2490d0da/info)
+
 ## Evaluation
 
 ### Test Data
 
 Test set from the "Spam Mails" dataset, consisting of 1038 random entries (20% of the total data). Entries in this set have experiment_id values ranging from 4132 to 5170.
+
+**Link to the subset:**
+
+[![DOI](https://zenodo.org/badge/DOI/10.82556/1qn4-mw15.svg)](https://test.dbrepo.tuwien.ac.at/database/7105b5ed-3020-42ad-8f67-f670c2f6fa18/subset/3c48ba6e-187b-11f0-a3a8-2ebef9ba1aed/info)
 
 ### Metrics
 - Precision = `0.9855`
