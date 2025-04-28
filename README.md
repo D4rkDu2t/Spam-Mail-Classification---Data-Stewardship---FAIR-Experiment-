@@ -79,7 +79,7 @@ You can download the pretrained model (`spam_nn_model_v1.h5`) from TUWRD and use
 
 **Link to TUWRD:**
 
-[![DOI](https://test.researchdata.tuwien.ac.at/badge/DOI/10.70124/jrmxj-v6920.svg)](https://handle.stage.datacite.org/10.70124/jrmxj-v6920)
+[![DOI](https://test.researchdata.tuwien.ac.at/badge/DOI/10.70124/kzhm9-md089.svg)](https://handle.stage.datacite.org/10.70124/kzhm9-md089)
 
 ```python
 import tensorflow as tf
